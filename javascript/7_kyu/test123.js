@@ -20,6 +20,3 @@ function number(array) {
 let story = ["Theo is a cat.", "Theo is a grouchy cat.", "One day, Theo woke up and..."];
 
 console.log(number(story));
-
-
-
